@@ -1,6 +1,6 @@
 # Engin Keles
 
-Computer Science graduate with hands-on experience in Windows administration, Active Directory, troubleshooting, and user support - backed by a strong foundation in cybersecurity, network defence, and security monitoring.
+Computer Science graduate with hands-on experience in Windows administration, Active Directory, troubleshooting, and user support - strong foundation in cybersecurity, network defence, and security monitoring.
 
 ---
 
