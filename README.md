@@ -1,6 +1,6 @@
 # Engin Keles
 
-Cybersecurity-focused Computer Science graduate specialising in practical threat detection, network defence, and security automation.
+Computer Science graduate with hands-on experience in Windows administration, Active Directory, troubleshooting, and user support - backed by a strong foundation in cybersecurity, network defence, and security monitoring.
 
 ---
 
@@ -8,9 +8,9 @@ Cybersecurity-focused Computer Science graduate specialising in practical threat
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
+| [Active Directory Environment](https://github.com/enginkeles/on-prem-active-directory-lab) | Azure-hosted on-prem–style AD lab. | Windows Server · Active Directory DS · Azure VMs |
 | [Firewall & Intrusion Detection Lab](https://github.com/enginkeles/pfsense-suricata-lab) | Multi-segment virtual lab simulating enterprise traffic with pfSense and Suricata. | pfSense · Suricata · VirtualBox |
 | [SIEM Implementation](https://github.com/enginkeles/wazuh-siem-lab) | Wazuh-based SIEM setup for log aggregation, correlation, and alerting. | Wazuh · pfSense · Suricata |
-| [Active Directory Environment](https://github.com/enginkeles/pfsense-activedirectory-lab) | Windows Server domain with centralised authentication and network segmentation. | Windows Server · AD · DNS |
 | [Python File Integrity Monitor](https://github.com/enginkeles/fim-project) | Lightweight SHA-256-based integrity checker with baseline tracking. | Python · JSON · Security Automation |
 
 ---
@@ -18,9 +18,10 @@ Cybersecurity-focused Computer Science graduate specialising in practical threat
 ## Skills & Tools
 
 **Languages:** Python, Bash, PowerShell, C, JavaScript  
-**Security Tools:** Wazuh, Suricata, pfSense, Burp Suite, Nmap, Wireshark, Kali Linux  
-**Platforms:** Linux, Windows Server, Active Directory, VMware, VirtualBox  
-**Areas of Focus:** Incident Detection, SIEM Engineering, Network Security, Log Analysis, Automation  
+**IT Support & SysAdmin:** Windows Server, Active Directory, Group Policy, DNS, DHCP, RDP, Azure VMs  
+**Security Tools:** Wazuh, Suricata, pfSense, Nmap, Wireshark, Burp Suite, Kali Linux  
+**Platforms:** Windows, Linux, VMware, VirtualBox  
+**Areas of Focus:** IT Support, System Administration, Troubleshooting, Network Security, Incident Detection, Log Analysis, Automation  
 
 ---
 
